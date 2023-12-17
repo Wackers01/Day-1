@@ -17,7 +17,7 @@ def calculate_calibration_value(line):
 
   return calibration_value
 
-  
+
 # Example lines
 lines = [
   "two1nine",
